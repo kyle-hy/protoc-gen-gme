@@ -1,0 +1,7 @@
+.settings/
+.vscode
+.clang-format
+.DS_Store
+go.sum
+
+
